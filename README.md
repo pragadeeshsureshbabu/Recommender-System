@@ -1,2 +1,6 @@
 # Recommender-System
-Recommendation Engine
+DonorsChoose.org is a United States–based 501(c) nonprofit organization that allows individuals to donate directly to public school classroom projects. Founded in 2000 by former public school teacher Charles Best, DonorsChoose.org was among the first civic crowdfunding platforms of its kind. The organization has been given Charity Navigator’s highest rating every year since 2005. In January 2018, they announced that 1 million projects had been funded.In 77% of public schools in the United States, at least one project has been requested on DonorsChoose.org.Schools from wealthy areas are more likely to make technology requests, while schools from less affluent areas are more likely to request basic supplies. It's been noted that repeat donors on DonorsChoose typically donate to projects they have no prior relationship with, and most often fund projects serving financially challenged students.
+
+A Recommender System predicts the likelihood that a user would prefer an item.As fas as my project is concern,the requirement of the Recommendation System(aka RecSys) is to recommend a user a project to donate to.
+As we have seen the number of projects to change from is very high,there is a need to filter, prioritize and efficiently deliver relevant information in order to alleviate the problem of information overload,which can be problem to many donors.
+Recommender System solve this problem by searching through large volume of data provided by DonorsChoose.com to provide users with personalises content and survive.
